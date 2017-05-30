@@ -1,7 +1,7 @@
 ## Puppy Timer
 
 
-create in your lab directory, create a new directory called "timer-lab". In "timer-lab" initiate a new index.html and main.js, then link them together.
+In your directory for this lab, create a new directory called "timer-lab". In "timer-lab" initiate a new index.html and main.js, then link them together.
 
 add a console.log('js connected!') to the top to verify it works!
 

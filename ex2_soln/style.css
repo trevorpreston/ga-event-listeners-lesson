@@ -6,5 +6,16 @@ body {
 	position: fixed;
 	height: 100vh;
 	width: 100vw;
-	background-color: peachpuff;
+	background-color: lightgoldenrodyellow;
+}
+
+.pup {
+	width: 80%;
+	padding: 20px;
+	margin: 0 auto;
+	margin-top: 40px;
+	color: white;
+	background-color: darkcyan;
+	text-align: center;
+	font-size: 22px;
 }

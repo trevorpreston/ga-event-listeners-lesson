@@ -26,7 +26,7 @@ var btn = document.getElementById('kill-btn');
 btn.addEventListener('click', function(){
 	console.log('timer stopped!');
 	clearInterval(pbTimer);
-})
+});
 
 
 // Show set Interval

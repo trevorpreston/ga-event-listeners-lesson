@@ -17,8 +17,7 @@
 4. Show .addEventListener('mouseout')
 
 ## Part 1-2: Event Listener Lab:
-No starter files!  Create a directory called "events-and-timers-labs"
-0. In that directory, create another directory called "timers".  In there, create a new index.html file and link both a new css and new javascript file.
+No starter files!  Create a directory called "events-and-timers-labs". In that directory, create another directory called "events".  In there, create a new index.html file and link both a new css and new javascript file.
 1. Create a button with click event listener that console logs your favorite pastry.
 2. Create another button click event listener that console logs '0'.
 3. Modify that button so that everytime you click it the button adds 5 each time.  (i.e. 0... 5...)
@@ -32,8 +31,10 @@ No starter files!  Create a directory called "events-and-timers-labs"
 4. show how setTimeout does the same thing and has the same format.
 5. explain what this stuff is really works.  Callstack, call queue, webAPI etc.
 
+
+
 ## Part 2-2 setTimeout/Interval Lab:
 1. Create a new javascript file called "timelord.js"
 2. Create an interval named "auto-counter" that initially console.logs "0" then counts up by 1 every 5 seconds, console logging the result.
 3. Create a function that clears the interval and logs "R.I.P. counter"
-4. Go back to your files from part 1.  Add a 3rd button that pops up an alert "<your preference> peanut butter is better" after 5 seconds, where <your preference> is replaced with either "crunchy" or "smooth" depending on your preference.  (hint: crunchy is better, right?).
+4. Go back to your files from part 1.  Add a 3rd button that pops up an alert "<your preference> peanut butter is better" after 5 seconds, where <your preference> is replaced with either "crunchy" or "smooth" depending on your preference.  (hint: crunchy, right?).

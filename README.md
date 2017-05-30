@@ -6,6 +6,7 @@
 3. Understand the JS event loop.
 4. Be able to apply mouse events with confidence!  (click, mouseover, mouseout)
 5. Use event listeners with the DOM.
+6. Understand and apply setInterval setTimeout both in and outside of the DOM.
 
 
 ## Part 1-1: Demo Event Listeners:

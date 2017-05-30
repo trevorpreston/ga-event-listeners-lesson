@@ -1,24 +1,37 @@
 body {
-	background-color: peachpuff;
+	background-color: grey;
 }
 
 button {
-	display: inline-block;
+	background-color: white;
 	width: 200px;
 	height: 50px;
 	padding: 0px;
 	border: 0px;
 }
 
-.bttn-container {
-	width: 620px;
-	margin: 10vh auto;
+h1 {
+	text-align: center;
+	color: #fafafa;
+	font-size: 50px;
 }
 
-.display {
-	width: 60vw;
-	height: 60vh;
-	background-color: cornflowerblue;
+.btn-container {
+	width: 620px;
+	margin: 10vh auto;
+	text-align: center;
+}
+
+#hover-btn {
+	text-align: center;
+}
+
+#hover-btn {
+	width: 100%;
 	margin: 0 auto;
-	margin-top: 50px
+}
+
+.status {
+	font-size: 36px;
+	color: aquamarine;
 }

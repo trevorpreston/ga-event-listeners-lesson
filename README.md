@@ -12,14 +12,14 @@
 ## Part 1-1: Demo Event Listeners:
 
 1. Show .addEventListener syntax.  Show with callback inside and callback outside.
-2. Show .addEventListener('click')
-3. Show .addEventListener('mouseover')
+2. Show .addEventListener('click').  Show that you can add two listeners to the same object.
+3. Show .addEventListener('mouseover').  
 4. Show .addEventListener('mouseout')
 
 ## Part 1-2: Event Listener Lab:
 No starter files!  Create a directory called "events-and-timers-labs"
 0. In that directory, create another directory called "timers".  In there, create a new index.html file and link both a new css and new javascript file.
-1. Create a button with click event listener that console logs 'Hi hi'.
+1. Create a button with click event listener that console logs your favorite pastry.
 2. Create another button click event listener that console logs '0'.
 3. Modify that button so that everytime you click it the button adds 5 each time.  (i.e. 0... 5...)
 4. Create another button that when you mouseover it, the button says "on!".  Then when the mouse goes off it says "off!"
